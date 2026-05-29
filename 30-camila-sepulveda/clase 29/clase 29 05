@@ -7,7 +7,7 @@ Algoritmo son instrucciones paso a paso, logicas, definidas, ordenadas y finitas
 Tiene un orden de como se construye el algoritmo, desde un inicio del canvas hasta el final, explicando de manera detallada las acciones o precesos de la codificación.
 se realiza el diagrama como herramienta de planificación para visualizar la logica de un programa antes de escribir una linea de codigo. 
 
- # Arrays (listas o arreglos): 
+ ## Arrays (listas o arreglos): 
 
 Contenedor de compartimientos numerados donde puedes guardar multiples datos bajo un mismo nombre, para mantener los datos mas ordenados y contener datos relacionados en un mismo contenedor. 
 
@@ -22,3 +22,23 @@ Background(colores[1]; //esto pintara mi fondo de color anaranjado.
 
 Para llamar alguno de los valores de mi array vamos a usar: nombreArray [n° elemento] 
 
+##  Class
+
+molde o plantilla abstracta que define una estructura, los datos (propiedades) y comportamientos(metodos) que tendra un tipo de objeto especifico.
+
+Ejemplo de definición:
+
+Imagínala como el plano de diseño de una casa o un
+cortador de galletas: no es el objeto real en sí, sino
+las instrucciones empaquetadas para fabricar infinitas
+copias independientes basadas en ese mismo modelo
+utilizando la palabra clave new
+
+Sintaxis. 
+1. la palabra clave class + nombre que le quiera dar.
+2. el metodo constructor (dondese definen las propiedades del obejto usando this)
+3. Las funciones personalizadas que definen lo que hace el objeto.
+
+## Class + Array: 
+
+Es un sistema de particulas. 
