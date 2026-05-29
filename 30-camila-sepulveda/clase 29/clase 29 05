@@ -22,3 +22,5 @@ Background(colores[1]; //esto pintara mi fondo de color anaranjado.
 
 Para llamar alguno de los valores de mi array vamos a usar: nombreArray [n° elemento] 
 
+
+
